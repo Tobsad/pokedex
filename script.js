@@ -165,7 +165,7 @@ async function getDataPokemon() {
 const onPokedex = () => {
   $powerBtn.classList.remove("is-off");
   $powerBtn.style.background = "#8cc6ff";
-  $mainScreen.style.backgroundImage = "url('/images/pokedexwp.webp')";
+  $mainScreen.style.backgroundImage = "url('./images/pokedexwp.webp')";
   $mainScreen.style.backgroundSize = "cover"; 
   $secondScreen.style.background = "#474445";
   $searchInput.removeAttribute("disabled");
