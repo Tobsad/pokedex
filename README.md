@@ -11,7 +11,8 @@ Se realizo la creación de una pokedex, el cual se le agrego un boton de ON/OFF 
 ### Respecto a esta practica lo que aprendí[^note].
 A medida que me guie sobre como crear la pokédex, encontre que se podia realizar de diferentes maneras , y a mi parecer todas me parecen excelente ya que nos ayudará a mejorar nuestra lógica e información que deseamos mostrar al usuario.
 
-[^1]: Repositorio de la Pokédex.
-[^2]: Descripción de la Práctica.
+[^1]: Link Pokedex
+[^2]: Repositorio de la Pokédex.
+[^3]: Descripción de la Práctica.
 [^note]:
       Lo aprendido
